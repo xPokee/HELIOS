@@ -1,4 +1,4 @@
-## Bubberstation (TG Downstream)
+## HELIOS Station (Bubber Downstream)
 
 [![CI Suite](https://github.com/Bubberstation/Bubberstation/actions/workflows/ci_suite.yml/badge.svg)](https://github.com/Bubberstation/Bubberstation/actions/workflows/ci_suite.yml)
 
@@ -9,26 +9,26 @@
 | Git / GitHub cheatsheet | [https://www.notion.so/Git-GitHub-61bc81766b2e4c7d9a346db3078ce833](https://www.notion.so/Git-GitHub-61bc81766b2e4c7d9a346db3078ce833) |
 | Guide to Modularization | [./modular_skyrat/readme.md](./modular_skyrat/readme.md)                                                                               |
 | Website                 | [https://wiki.bubberstation.org/index.php?title=Main_Page](https://wiki.bubberstation.org/index.php?title=Main_Page)                   |
-| Code                    | [https://github.com/Bubberstation/Bubberstation](https://github.com/Bubberstation/Bubberstation)                                       |
+| Code                    | [https://github.com/HELIOS-ss13/HELIOS](https://github.com/HELIOS-ss13/HELIOS)                                       |
 | Wiki                    | [https://tgstation13.org/wiki/Main_Page](https://tgstation13.org/wiki/Main_Page)                                                       |
 | Codedocs                | [https://skyrat-ss13.github.io/Skyrat-tg/](https://skyrat-ss13.github.io/Skyrat-tg/)                                                   |
-| Bubberstation Discord   | [https://discord.gg/AvjrTqnqEx](https://discord.gg/AvjrTqnqEx)                                                                         |
+| HELIOS Station Discord   | [https://discord.gg/dwvF283DTd](https://discord.gg/dwvF283DTd)                                                                         |
 | Coderbus Discord        | [https://discord.gg/Vh8TJp9](https://discord.gg/Vh8TJp9)                                                                               |
 
-This is Bubberstation's fork of TG. Originally forked from Skyrat.
+This is HELIOS Station's fork of Bubberstation.
 
 **Please note that this repository contains sexually explicit content and is not suitable for those under the age of 18.**
 
 Space Station 13 is a paranoia-laden round-based roleplaying game set against the backdrop of a nonsensical, metal death trap masquerading as a space station, with charming spritework designed to represent the sci-fi setting and its dangerous undertones. Have fun, and survive!
 
-As of our recent split from Skyrat, a lot of codedocs/modularization guides need to be rewritten. Until it is done expect some wait time with larger refactors. You are also free to edit any Skyrat files
+You are free to edit any files under the modular_helios folder, otherwise, your edits must be modularized.
 
 ## Contribution Rules and Guidelines
 
 **1. Do Not Be A Dick**
 
-- The Bubberstation main repository is maintained by and contributed to by volunteers and hobbiests. You are not entitled to our time and energy. We reserve the right to permanently remove anyone who does not show both our contributor's and maintainer's common decency.
-- Bubberstation does not operate a strict "goodboy" points system or have defined goals, and anyone is welcome to contribute to this project. That being said, the maintainers of this project are free to curate comments as seen fit to uphold a respectful environment.
+- The HELIOS Station main repository is maintained by and contributed to by volunteers and hobbiests. You are not entitled to our time and energy. We reserve the right to permanently remove anyone who does not show both our contributor's and maintainer's common decency.
+- HELIOS Station does not operate a strict "goodboy" points system or have defined goals, and anyone is welcome to contribute to this project. That being said, the maintainers of this project are free to curate comments as seen fit to uphold a respectful environment.
 
 **2. The Licensing is Non-negotiable**
 
