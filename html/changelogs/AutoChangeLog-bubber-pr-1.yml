@@ -1,0 +1,5 @@
+author: "xPokee"
+delete-after: True
+changes:
+  - image: "Modified the title text/icon."
+  - image: "Reverted the loading screen to the old Skyrat one."
