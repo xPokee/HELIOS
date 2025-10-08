@@ -1,6 +1,6 @@
-## HELIOS Station (Bubber Downstream)
+## HELIOS Station (/tg/ Downstream)
 
-[![CI Suite](https://github.com/Bubberstation/Bubberstation/actions/workflows/ci_suite.yml/badge.svg)](https://github.com/Bubberstation/Bubberstation/actions/workflows/ci_suite.yml)
+[![CI Suite](https://github.com/HELIOS-ss13/HELIOS/actions/workflows/ci_suite.yml/badge.svg)](https://github.com/HELIOS-ss13/HELIOS/actions/workflows/ci_suite.yml)
 
 [![resentment](.github/images/badges/built-with-resentment.svg)](.github/images/comics/131-bug-free.png) [![technical debt](.github/images/badges/contains-technical-debt.svg)](.github/images/comics/106-tech-debt-modified.png) [![forinfinityandbyond](.github/images/badges/made-in-byond.gif)](https://www.reddit.com/r/SS13/comments/5oplxp/what_is_the_main_problem_with_byond_as_an_engine/dclbu1a)
 
@@ -8,14 +8,14 @@
 | ----------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
 | Git / GitHub cheatsheet | [https://www.notion.so/Git-GitHub-61bc81766b2e4c7d9a346db3078ce833](https://www.notion.so/Git-GitHub-61bc81766b2e4c7d9a346db3078ce833) |
 | Guide to Modularization | [./modular_skyrat/readme.md](./modular_skyrat/readme.md)                                                                               |
-| Website                 | [https://wiki.bubberstation.org/index.php?title=Main_Page](https://wiki.bubberstation.org/index.php?title=Main_Page)                   |
+| Website                 | [https://wiki.helios-station.org/index.php?title=Main_Page](https://wiki.helios-station.org/index.php?title=Main_Page)                   |
 | Code                    | [https://github.com/HELIOS-ss13/HELIOS](https://github.com/HELIOS-ss13/HELIOS)                                       |
 | Wiki                    | [https://tgstation13.org/wiki/Main_Page](https://tgstation13.org/wiki/Main_Page)                                                       |
 | Codedocs                | [https://skyrat-ss13.github.io/Skyrat-tg/](https://skyrat-ss13.github.io/Skyrat-tg/)                                                   |
-| HELIOS Station Discord   | [https://discord.gg/dwvF283DTd](https://discord.gg/dwvF283DTd)                                                                         |
+| HELIOS Station Discord  | [https://discord.gg/dwvF283DTd](https://discord.gg/dwvF283DTd)                                                                         |
 | Coderbus Discord        | [https://discord.gg/Vh8TJp9](https://discord.gg/Vh8TJp9)                                                                               |
 
-This is HELIOS Station's fork of Bubberstation.
+This is HELIOS Station's fork of /tg/station 13.
 
 **Please note that this repository contains sexually explicit content and is not suitable for those under the age of 18.**
 
